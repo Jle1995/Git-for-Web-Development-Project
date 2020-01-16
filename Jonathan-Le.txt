@@ -1,5 +1,5 @@
 <!-- reveiw questions to Submit in today's file first-lastname.txt --> 
-<!--
+
 Copy the questions below into the firt-lastname.txt file on your github repo - answer each question and then push your changes. 
 
     1. What is Semantic HTML? 
@@ -219,4 +219,3 @@ Stretch Questions
     4. Name 3 elements that are diplay block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default
     5. In your own words, explain the box model. What is the fix for the box model? 
 
--->
